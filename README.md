@@ -8,7 +8,7 @@ I am a front-end developer with two years of overall experience. Due to my previ
 
 * 🌍  I'm based in Taipei
 * 🖥️  See my portfolio at [My Portfolio](http://jinportfoliocms.netlify.app/)
-* ✉️  You can contact me at [info@jinwangdev.com](mailto:info@jinwangdev.com)
+* ✉️  You can contact me at [jinwangdev@gmail.com](mailto:jinwangdev@gmail.com)
 * 🚀  I'm currently working on [React & Next](http://jinwangdev.com/)
 * 🧠  I'm learning Full Stack Development
 * 🤝  I'm open to collaborating on Any Front-End Website
